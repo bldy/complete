@@ -1,6 +1,6 @@
 <p align="center"><img src="https://bldy.build/static/images/bldy.png" alt="bldy" width="200"/></p> 
 
-[![GoDoc](https://godoc.org/bldy.build/complete?status.svg)](https://bldy.build/build)
+Complete [![GoDoc](https://godoc.org/bldy.build/complete?status.svg)](https://bldy.build/build)
 =====
 An acme completion engine for c
 
